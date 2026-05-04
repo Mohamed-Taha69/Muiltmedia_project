@@ -1,0 +1,110 @@
+[
+  {
+    "class": "Measles",
+    "file": "measles10.png",
+    "orig_kb": 79.20703125,
+    "comp_kb": 129.7490234375,
+    "ratio": 1.1329639654641983,
+    "mse": 0.0,
+    "prediction": "Measles",
+    "ch_info": [
+      {
+        "channel": "Blue",
+        "unique_symbols": 192,
+        "avg_code_len": 7.123046875
+      },
+      {
+        "channel": "Green",
+        "unique_symbols": 179,
+        "avg_code_len": 6.970563616071429
+      },
+      {
+        "channel": "Red",
+        "unique_symbols": 200,
+        "avg_code_len": 7.089764030612245
+      }
+    ],
+    "psnr": "inf"
+  },
+  {
+    "class": "Measles",
+    "file": "measles11.png",
+    "orig_kb": 85.076171875,
+    "comp_kb": 124.98828125,
+    "ratio": 1.176117152294467,
+    "mse": 0.0,
+    "prediction": "Measles",
+    "ch_info": [
+      {
+        "channel": "Blue",
+        "unique_symbols": 195,
+        "avg_code_len": 7.101183832908164
+      },
+      {
+        "channel": "Green",
+        "unique_symbols": 180,
+        "avg_code_len": 6.812201052295919
+      },
+      {
+        "channel": "Red",
+        "unique_symbols": 149,
+        "avg_code_len": 6.492745535714286
+      }
+    ],
+    "psnr": "inf"
+  },
+  {
+    "class": "Monkeypox",
+    "file": "monkeypox179.png",
+    "orig_kb": 72.6083984375,
+    "comp_kb": 130.8642578125,
+    "ratio": 1.1233034649891143,
+    "mse": 0.0,
+    "prediction": "Monkeypox",
+    "ch_info": [
+      {
+        "channel": "Blue",
+        "unique_symbols": 206,
+        "avg_code_len": 7.057278380102041
+      },
+      {
+        "channel": "Green",
+        "unique_symbols": 200,
+        "avg_code_len": 6.9521484375
+      },
+      {
+        "channel": "Red",
+        "unique_symbols": 198,
+        "avg_code_len": 7.35612643494898
+      }
+    ],
+    "psnr": "inf"
+  },
+  {
+    "class": "Monkeypox",
+    "file": "monkeypox241.png",
+    "orig_kb": 84.2041015625,
+    "comp_kb": 138.5478515625,
+    "ratio": 1.0610062000928648,
+    "mse": 0.0,
+    "prediction": "Monkeypox",
+    "ch_info": [
+      {
+        "channel": "Blue",
+        "unique_symbols": 248,
+        "avg_code_len": 7.576092155612245
+      },
+      {
+        "channel": "Green",
+        "unique_symbols": 242,
+        "avg_code_len": 7.472437021683674
+      },
+      {
+        "channel": "Red",
+        "unique_symbols": 236,
+        "avg_code_len": 7.571508290816326
+      }
+    ],
+    "psnr": "inf"
+  }
+]
